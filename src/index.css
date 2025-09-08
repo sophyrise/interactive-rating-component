@@ -11,3 +11,12 @@
 body {
   font-family: overpass, sans-serif;
 }
+
+@theme {
+  --color-darkBlue: #262e38;
+  --color-lightGray: #969FAD;
+  --color-orange: #FC7614;
+  --color-pureWhite: #FFFFFF;
+  --color-veryDarkBlue: #131518;
+  --color-veryBlack: #232a34;
+}
