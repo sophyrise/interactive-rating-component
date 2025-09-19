@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="w-full min-h-screen bg-veryDarkBlue flex justify-center items-center">
       <div className="bg-veryBlack w-[327px] md:w-[412px] p-8 rounded-[30px]">
+        
         <div className="bg-darkBlue w-12 h-12 rounded-full flex justify-center items-center mb-[30px] font-bold">
           <img src={starIcon} alt="" /> 
         </div>
